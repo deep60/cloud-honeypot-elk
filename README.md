@@ -54,13 +54,13 @@ Internet (Attackers)
 ## 📸 Dashboard Screenshots
 
 ### 🗺️ Attack World Map + Timeline
-![Dashboard Overview](screenshots/dashboard-1.png)
+![Dashboard Overview](screenshots/Screenshot 2026-03-31 at 23.38.20.png)
 
 ### 🌍 Top Countries + IPs + Heatmap + SSH Versions
-![Attack Analysis](screenshots/dashboard-2.png)
+![Attack Analysis](screenshots/Screenshot 2026-03-31 at 23.38.33.png)
 
 ### ⏱️ Session Duration Analysis
-![Session Analysis](screenshots/dashboard-3.png)
+![Session Analysis](screenshots/Screenshot 2026-03-31 at 23.38.43.png)
 
 ---
 
