@@ -266,6 +266,4 @@ cloud-honeypot-elk/
 
 ---
 
-Made with 🔥 by **Arjun**
-
 [![GitHub](https://img.shields.io/badge/GitHub-deep60-black?style=flat&logo=github)](https://github.com/deep60)
