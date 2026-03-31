@@ -1,0 +1,13 @@
+# Log files — sensitive data!
+*.json
+*.log
+cowrie.json
+
+# Environment files
+.env
+*.pem
+*.key
+
+# Large files
+*.gz
+*.zip
